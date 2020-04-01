@@ -1,10 +1,10 @@
 <resources>
     <!-- Theme name and author name -->
-    <string name="ThemeName">Substratum Template</string>
-    <string name="ThemeAuthor">Projekt Development</string>
+    <string name="ThemeName">BlackAF</string>
+    <string name="ThemeAuthor">Kunal</string>
     <!-- Your email for bug reports (DEFAULT: empty) -->
     <!--suppress CheckTagEmptyBody -->
-    <string name="ThemeAuthorEmail"></string>
+    <string name="ThemeAuthorEmail">kunalshah912@gmail.com</string>
     <!-- Theme wallpaper source (must be raw) -->
     <string name="ThemeWallpaperSource">http://pastebin.com/raw/TG4mFdXz</string>
     <!-- Do your theme support substratum legacy? -->
@@ -12,7 +12,7 @@
     <!-- 'true' to 'false' to hide your theme on the Play Store from any stock ROM-->
     <bool name="ThemeSupportLegacy">true</bool>
     <!-- Does your theme support substratum samsung? -->
-    <bool name="ThemeSupportSamsung">false</bool>
+    <bool name="ThemeSupportSamsung">true</bool>
     <!-- Do you want to override the hero image auto color assignment? -->
     <!-- Don't force anything? -> auto -->
     <!-- Force black/dark icons? -> dark -->
